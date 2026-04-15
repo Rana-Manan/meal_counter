@@ -1,16 +1,16 @@
-# meal_counter
+# Meal Counter App
 
-A new Flutter project.
+A Meals Management App built using Flutter. It allows users to add food items in different meals and track their calorie intake. Each meal maintains a dynamic list of items, and total calories are calculated automatically.
 
-## Getting Started
+## Features
+- Add food items to Breakfast, Lunch, Dinner
+- Automatic calorie calculation
+- Clean, simple UI
 
-This project is a starting point for a Flutter application.
+## Screenshots
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-15 at 15 10 04" src="https://github.com/user-attachments/assets/6a2ac905-dfcd-45d9-8e80-aa4f42087653" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-15 at 15 10 04 (1)" src="https://github.com/user-attachments/assets/8c1ce519-8464-4e2a-a744-e01171873769" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/6b130b27-46e6-4289-b50d-445dc5dbefbc
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
